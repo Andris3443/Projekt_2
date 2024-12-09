@@ -29,7 +29,6 @@ level2_differences = [
     (280, 370),
 ]
 
-
 # Globális változók
 found_differences = []
 current_differences = []
